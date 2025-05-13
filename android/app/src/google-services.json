@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38736075834",
+    "project_id": "fire-setup-89574",
+    "storage_bucket": "fire-setup-89574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38736075834:android:21476bda4b8b93e6d8a903",
+        "android_client_info": {
+          "package_name": "com.example.festeve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX351Xjz6Y-1xC-OogIefqtLJ1KtY140s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
